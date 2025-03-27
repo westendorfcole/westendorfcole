@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Cole Westendorf**, a Statistics and Computer Science student at the University of Victoria, passionate about designing **data-driven solutions** and **innovative software**.
+I’m **Cole Westendorf**, a Statistics and Computer Science co-op student at the University of Victoria, passionate about designing **data-driven solutions** and **innovative software**. Cuttently interested in artificial intellegence and data analysis.
 
 - 🔭 **I’m currently working on**:
   - An **LSTM-based deep learning model** to improve building HVAC and lighting efficiency by at least 15%
